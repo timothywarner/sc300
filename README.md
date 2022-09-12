@@ -1,7 +1,5 @@
 # Exam SC-300 Microsoft Identity and Access Administrator Crash Course
 
-
-
 ## Tim's contact info
 
 - [Website](https://techtrainertim.com/)

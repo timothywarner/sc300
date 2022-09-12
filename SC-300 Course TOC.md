@@ -10,7 +10,7 @@
 ## Authentication and access management
 
 - MFA deployment
-- Auth methods
+- Auth methods w/ Azure AD Password Protection
 - Azure AD sign-in to Azure VMs
 - Azure AD Conditional Access
 - Azure AD Identity Protection
