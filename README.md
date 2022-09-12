@@ -1,5 +1,7 @@
 # Exam SC-300 Microsoft Identity and Access Administrator Crash Course
 
+<img src="images/badge.png" width="200" />
+
 ## Tim's contact info
 
 - [Website](https://techtrainertim.com/)
@@ -26,7 +28,29 @@
 
 ## Conceptual learning
 
-- docs
+- [Azure docs](https://docs.microsoft.com/en-us/azure/)
+- [Azure AD docs](https://docs.microsoft.com/en-us/azure/active-directory/)
+- [Microsoft 365 Defender docs](https://docs.microsoft.com/en-us/microsoft-365/security/defender/)
+- [Microsoft Defender for Cloud Apps docs](https://docs.microsoft.com/en-us/defender-cloud-apps/)
+- Azure AD Conditional Access docs
+- Azure MFA docs
+- Azure AD Identity Protection docs
+- Azure AD Password Protection docs
+- Microsoft Defender for Cloud Apps docs
+- Azure AD External Identities docs
+- Azure AD PIM docs
+- Azure AD Entitlement Management docs
+- Azure AD Application Proxy docs
+- Microsoft Entra docs
+
+## Admin portals
+
+- [Microsoft Azure portal](https://portal.azure.com)
+- [Microsoft Azure AD portal](https://aad.portal.azure.com)
+- [Microsoft Entra admin center](https://entra.microsoft.com)
+- [Microsoft 365 admin center](https://admin.microsoft.com)
+- [Microsoft 365 Defender portal](https://security.microsoft.com)
+- [Microsoft Defender for Cloud Apps admin center](https://portal.cloudappsecurity.com)
 
 ## Hands-on skills development
 
@@ -36,6 +60,10 @@
 - [SC-300: Plan and implement an identity governance strategy](https://docs.microsoft.com/en-us/training/paths/plan-implement-identity-governance-strategy/)
 - [Cloud Academy SC-300 learning path](https://cloudacademy.com/learning-paths/sc-300-exam-prep-microsoft-identity-and-access-administrator-4813/)
 - [Pluralsight SC-300 learning path](https://www.pluralsight.com/paths/microsoft-identity-and-access-administrator-sc-300)
+- [Azure Free Trial](https://azure.microsoft.com/en-us/free/)
+- [Azure Pass offer](https://www.microsoftazurepass.com/)
+- [Kusto Query Playground](https://aka.ms/lademo)
+- [Kusto King tutorials](https://www.kustoking.com/)
 
 ## Practice tests
 
